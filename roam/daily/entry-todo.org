@@ -1,0 +1,4 @@
+* TODO %^{Subject}
+CREATED: %U
+DEADLINE: %^{Deadline}t
+%?
