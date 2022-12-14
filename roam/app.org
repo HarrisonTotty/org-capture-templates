@@ -1,0 +1,13 @@
+#+date: %U
+#+filetags: application
+
+* Metadata
+:PROPERTIES:
+:Repository: %^{Repository}
+:Lead Developer: %^{Lead Developer}
+:END:
+* Description
+%?
+* Technologies
+** Foo
+** Bar

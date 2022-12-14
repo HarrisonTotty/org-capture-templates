@@ -1,0 +1,7 @@
+#+date: %U
+#+description: %^{Summary}
+#+filetags: :jira:%^{Type|story|defect|epic|incident|subtask}:
+
+* Description
+%?
+* Notes
