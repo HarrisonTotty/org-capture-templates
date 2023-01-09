@@ -1,0 +1,9 @@
+#+author: %n
+#+date: %U
+#+filetags: :concept:%^g
+
+* Definition
+%?
+* Description
+* Notes
+* Links
