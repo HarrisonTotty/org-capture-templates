@@ -1,5 +1,5 @@
 #+author: %n
 #+date: %U
-#+filetags: default
+#+filetags: %^g
 
 * %?
